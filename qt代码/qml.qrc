@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>delivery.qml</file>
+        <file>login.qml</file>
+        <file>pickup.qml</file>
+        <file>register.qml</file>
+        <file>delivery.png</file>
+    </qresource>
+</RCC>
